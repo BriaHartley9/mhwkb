@@ -1,3 +1,4 @@
+Our organization ( http://www.brenninstitute.org/ ) is the helping hand you need to treat your addictions because WE CARE.
 
 [![Build Status](https://travis-ci.org/mhwkb/mhwkb.svg?branch=master)](https://travis-ci.org/mhwkb/mhwkb)
 
