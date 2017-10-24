@@ -72,3 +72,4 @@ have contributed)
 * Andy Alt (andy400-dev@yahoo.com)
 * [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
 * [Issues](https://github.com/mhwkb/mhwkb/issues)
+Our organization ( http://www.brenninstitute.org/ ) is the helping hand you need to treat your addictions because WE CARE.
